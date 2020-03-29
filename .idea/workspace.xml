@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae754a3b-202e-4421-889b-26debe5b8031" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/alert/alertContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/alert/alertState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Repos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/alert/alertReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/github/GithubState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/github/githubContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/github/githubReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Alert.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/alert/alertState.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/alert/alertState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +42,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="C:/FlatLlogic" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <configuration name="npm start" type="js.build_tools.npm">
@@ -51,6 +74,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -62,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585345034230</updated>
-      <workItem from="1585345035790" duration="5872000" />
+      <workItem from="1585345035790" duration="17359000" />
     </task>
     <servers />
   </component>
@@ -70,13 +98,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="244" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585350333808">
+    <state x="79" y="182" key="#ESLint" timestamp="1585490841584">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="244" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585350333808" />
+    <state x="79" y="182" key="#ESLint/0.0.1920.1040@0.0.1920.1040" timestamp="1585490841584" />
+    <state x="199" y="222" key="#build" timestamp="1585494830566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="199" y="222" key="#build/0.0.1920.1040@0.0.1920.1040" timestamp="1585494830566" />
+    <state x="244" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585486008970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="244" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585486008970" />
     <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1585349576427">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585349576427" />
+    <state x="150" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1585486117349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="150" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585486117349" />
   </component>
 </project>
