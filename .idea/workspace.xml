@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae754a3b-202e-4421-889b-26debe5b8031" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Repos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/alert/alertReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/github/GithubState.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/github/githubContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/github/githubReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Alert.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/context/alert/alertState.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/alert/alertState.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Profile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,12 +77,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585345034230</updated>
-      <workItem from="1585345035790" duration="17359000" />
+      <workItem from="1585345035790" duration="18192000" />
+      <workItem from="1585496043831" duration="635000" />
     </task>
+    <task id="LOCAL-00001" summary="finish app">
+      <created>1585495230441</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585495230441</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish app" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish app" />
   </component>
   <component name="WindowStateProjectService">
     <state x="79" y="182" key="#ESLint" timestamp="1585490841584">
@@ -110,10 +110,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="244" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585486008970" />
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1585349576427">
+    <state x="105" y="218" key="CommitChangelistDialog2" timestamp="1585495228520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585349576427" />
+    <state x="105" y="218" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585495228520" />
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1585495231799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585495231799" />
     <state x="150" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1585486117349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

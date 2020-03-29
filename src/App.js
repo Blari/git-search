@@ -17,7 +17,7 @@ function App() {
                 <div className="container pt-4">
                     <Alert alert={{text: "Test alert"}} />
                     <Switch>
-                        <Route exact path="/" component={Home} />
+                        <Route exact path="/git-search" component={Home} />
                         <Route path="/about" component={About} />
                         <Route path="/profile/:name" component={Profile} />
                     </Switch>
