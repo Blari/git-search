@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ae754a3b-202e-4421-889b-26debe5b8031" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Profile.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +80,13 @@
       <option name="presentableId" value="Default" />
       <updated>1585345034230</updated>
       <workItem from="1585345035790" duration="18192000" />
-      <workItem from="1585496043831" duration="4240000" />
+      <workItem from="1585496043831" duration="5567000" />
+      <workItem from="1585503191370" duration="25000" />
+      <workItem from="1585503280710" duration="59000" />
+      <workItem from="1585503504701" duration="12000" />
+      <workItem from="1585503537473" duration="21000" />
+      <workItem from="1585503570782" duration="194000" />
+      <workItem from="1585503782469" duration="57000" />
     </task>
     <task id="LOCAL-00001" summary="finish app">
       <created>1585495230441</created>
@@ -98,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585496893173</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix links">
+      <created>1585500506289</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585500506289</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +117,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finish app" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish app" />
+    <MESSAGE value="fix links" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix links" />
   </component>
   <component name="WindowStateProjectService">
     <state x="79" y="182" key="#ESLint" timestamp="1585490841584">
@@ -121,14 +133,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="244" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585486008970" />
-    <state x="105" y="218" key="CommitChangelistDialog2" timestamp="1585496892289">
+    <state x="105" y="218" key="CommitChangelistDialog2" timestamp="1585500505340">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="105" y="218" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585496892289" />
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1585496896578">
+    <state x="105" y="218" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585500505340" />
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1585500507877">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585496896578" />
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585500507877" />
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585496922483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

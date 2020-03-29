@@ -7,7 +7,7 @@ export const Search = () =>  {
     const alert = useContext(AlertContext)
     const github = useContext(GithubContext)
 
-        const onSubmit = (event) => {
+    const onSubmit = (event) => {
         if (event.key !== 'Enter') {
            return
         }
