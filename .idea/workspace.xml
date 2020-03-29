@@ -4,7 +4,9 @@
     <list default="true" id="ae754a3b-202e-4421-889b-26debe5b8031" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Profile.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +15,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1ZjGLf1RCRhjf2F2cxsTrtyP6Hn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -36,6 +39,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -78,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585345034230</updated>
       <workItem from="1585345035790" duration="18192000" />
-      <workItem from="1585496043831" duration="635000" />
+      <workItem from="1585496043831" duration="4240000" />
     </task>
     <task id="LOCAL-00001" summary="finish app">
       <created>1585495230441</created>
@@ -87,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585495230441</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finish app">
+      <created>1585496893173</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585496893173</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,14 +121,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="244" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585486008970" />
-    <state x="105" y="218" key="CommitChangelistDialog2" timestamp="1585495228520">
+    <state x="105" y="218" key="CommitChangelistDialog2" timestamp="1585496892289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="105" y="218" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585495228520" />
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1585495231799">
+    <state x="105" y="218" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585496892289" />
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1585496896578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585495231799" />
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585496896578" />
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585496922483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585496922483" />
     <state x="150" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1585486117349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

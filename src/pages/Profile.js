@@ -25,7 +25,7 @@ export const Profile = ({match}) => {
 
     return (
         <Fragment>
-           <Link to="/" className="btn btn-link">На главную</Link>
+           <Link to="/git-search" className="btn btn-link">На главную</Link>
             <div className="card mb-4">
                 <div className="card-body">
                     <div className="row">

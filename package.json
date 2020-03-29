@@ -1,6 +1,6 @@
 {
   "name": "react-hooks",
-  "homepage": "blari.github.io/git-search",
+  "homepage": "http://blari.github.io/git-search",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,6 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
