@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/blari.github.io/git-search/static/css/main.3114cb68.chunk.css",
-    "main.js": "/blari.github.io/git-search/static/js/main.93d42fe9.chunk.js",
-    "main.js.map": "/blari.github.io/git-search/static/js/main.93d42fe9.chunk.js.map",
-    "runtime-main.js": "/blari.github.io/git-search/static/js/runtime-main.01db2abb.js",
-    "runtime-main.js.map": "/blari.github.io/git-search/static/js/runtime-main.01db2abb.js.map",
-    "static/js/2.b6c82661.chunk.js": "/blari.github.io/git-search/static/js/2.b6c82661.chunk.js",
-    "static/js/2.b6c82661.chunk.js.map": "/blari.github.io/git-search/static/js/2.b6c82661.chunk.js.map",
-    "index.html": "/blari.github.io/git-search/index.html",
-    "precache-manifest.5fe971d85aa86885ebd8fa075a44ef6c.js": "/blari.github.io/git-search/precache-manifest.5fe971d85aa86885ebd8fa075a44ef6c.js",
-    "service-worker.js": "/blari.github.io/git-search/service-worker.js",
-    "static/css/main.3114cb68.chunk.css.map": "/blari.github.io/git-search/static/css/main.3114cb68.chunk.css.map",
-    "static/js/2.b6c82661.chunk.js.LICENSE.txt": "/blari.github.io/git-search/static/js/2.b6c82661.chunk.js.LICENSE.txt"
+    "main.css": "/git-search/static/css/main.3114cb68.chunk.css",
+    "main.js": "/git-search/static/js/main.1cf350f2.chunk.js",
+    "main.js.map": "/git-search/static/js/main.1cf350f2.chunk.js.map",
+    "runtime-main.js": "/git-search/static/js/runtime-main.017d07dd.js",
+    "runtime-main.js.map": "/git-search/static/js/runtime-main.017d07dd.js.map",
+    "static/js/2.b6c82661.chunk.js": "/git-search/static/js/2.b6c82661.chunk.js",
+    "static/js/2.b6c82661.chunk.js.map": "/git-search/static/js/2.b6c82661.chunk.js.map",
+    "index.html": "/git-search/index.html",
+    "precache-manifest.1c4e73422e0c90e1da8a6724ff89cb76.js": "/git-search/precache-manifest.1c4e73422e0c90e1da8a6724ff89cb76.js",
+    "service-worker.js": "/git-search/service-worker.js",
+    "static/css/main.3114cb68.chunk.css.map": "/git-search/static/css/main.3114cb68.chunk.css.map",
+    "static/js/2.b6c82661.chunk.js.LICENSE.txt": "/git-search/static/js/2.b6c82661.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.01db2abb.js",
+    "static/js/runtime-main.017d07dd.js",
     "static/js/2.b6c82661.chunk.js",
     "static/css/main.3114cb68.chunk.css",
-    "static/js/main.93d42fe9.chunk.js"
+    "static/js/main.1cf350f2.chunk.js"
   ]
 }
